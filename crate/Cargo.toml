@@ -1,0 +1,13 @@
+[package]
+name = "this-dictionaries"
+version = "0.1.0"
+authors = ["suiGn <admin@neurons.me>"]
+edition = "2021"
+description = "This.Dictionaries Data Formatter"
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/neurons-me/this.audio"
+homepage = "https://neurons.me"
+readme = "README.md"
+keywords = ["audio", "Data"]
+categories = ["command-line-utilities", "encoding", "multimedia"]
+[dependencies]
